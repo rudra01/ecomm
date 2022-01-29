@@ -10,7 +10,7 @@ void main() {
           // title: Text("First App")
       ),
       body: WebView(
-        initialUrl: "https://ardasinterior2.trygon.in",
+        initialUrl: "https://www.ardasinterior.com/",
         javascriptMode: JavascriptMode.unrestricted,
       ),
     ),
