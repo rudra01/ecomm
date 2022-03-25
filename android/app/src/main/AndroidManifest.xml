@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.first_app">
    <application
-        android:label="ArdasInterior"
-        android:icon="@mipmap/launcher_icon">
+        android:label="Ardas Interior"
+        android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
